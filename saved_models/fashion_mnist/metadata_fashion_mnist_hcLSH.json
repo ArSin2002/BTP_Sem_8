@@ -1,0 +1,4 @@
+{
+    "dataset": "fashion_mnist",
+    "activation": "hcLSH"
+}

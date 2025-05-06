@@ -1,0 +1,4 @@
+{
+    "dataset": "cifar10",
+    "activation": "mish"
+}

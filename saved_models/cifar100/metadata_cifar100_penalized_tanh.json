@@ -1,0 +1,4 @@
+{
+    "dataset": "cifar100",
+    "activation": "penalized_tanh"
+}
